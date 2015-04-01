@@ -16,16 +16,16 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define('DB_NAME', 'Jauzz');
+define('DB_NAME', 'wp_jauzz');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'lieison2014');
+define('DB_USER', 'root');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 'lieison2015');
+define('DB_PASSWORD', '');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'mundocontables.com');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
